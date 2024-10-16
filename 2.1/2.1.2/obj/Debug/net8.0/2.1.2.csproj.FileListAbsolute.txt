@@ -1,0 +1,14 @@
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\obj\Debug\net8.0\2.1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\obj\Debug\net8.0\2.1.2.AssemblyInfoInputs.cache
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\obj\Debug\net8.0\2.1.2.AssemblyInfo.cs
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\obj\Debug\net8.0\2.1.2.csproj.CoreCompileInputs.cache
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\bin\Debug\net8.0\2.1.2.exe
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\bin\Debug\net8.0\2.1.2.deps.json
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\bin\Debug\net8.0\2.1.2.runtimeconfig.json
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\bin\Debug\net8.0\2.1.2.dll
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\bin\Debug\net8.0\2.1.2.pdb
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\obj\Debug\net8.0\2.1.2.dll
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\obj\Debug\net8.0\refint\2.1.2.dll
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\obj\Debug\net8.0\2.1.2.pdb
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\obj\Debug\net8.0\2.1.2.genruntimeconfig.cache
+C:\Users\pstep\OneDrive\Pulpit\School\Masters\2.1\2.1.2\obj\Debug\net8.0\ref\2.1.2.dll
